@@ -500,3 +500,7 @@ public GitHub forks. (Other ways to publicize modifications are also fine, as
 are private use modifications. See also: [MPL 2.0 FAQ][])
 
 [MPL 2.0 FAQ]: https://www.mozilla.org/en-US/MPL/2.0/FAQ/
+
+## umeditor note
+
+mathquill npm version 0.9.1 is from commit 38e162b
